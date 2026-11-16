@@ -180,11 +180,9 @@ Das Frontend verwendet den Next.js App Router:
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/yvanzambou/DEIN-REPOSITORY.git
-cd booki-booki_2.0
+git clone https://github.com/yvanzambou/booki-booki-2.0.git
+cd booki-booki-2.0
 ```
-
-Ersetze `DEIN-REPOSITORY` durch den tatsächlichen Namen deines GitHub-Repositories.
 
 ### 2. Umgebungsvariablen konfigurieren
 
